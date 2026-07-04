@@ -10,7 +10,7 @@ Available options:
 - Or use endcord client-side command `install_extension sparklost/endcord-termux-rich`
 
 ## Configuration
-All extension options are under `[main]` section in endcord config. This extension options are always prepended with `ext_termux_rich_`.  
+All extension options are under `[main]` section in endcord config. This extension options are always prefixed with `ext_termux_rich_`.  
 Verify that Termux:API is working by running `termux-notification-list` and see if there are results.
 
 ### Settings options
