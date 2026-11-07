@@ -10,8 +10,8 @@ from endcord import utils
 import albumart
 
 EXT_NAME = "Termux Rich Presence"
-EXT_VERSION = "0.1.0"
-EXT_ENDCORD_VERSION = "1.5.0"
+EXT_VERSION = "0.1.1"
+EXT_ENDCORD_VERSION = "1.6.0"
 EXT_DESCRIPTION = "An extension that uses termux api to send rich presence when playing a media on android"
 EXT_SOURCE = "https://github.com/sparklost/endcord-termux-rich"
 logger = logging.getLogger(__name__)
